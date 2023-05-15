@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13BBlFzRbwUVU41Zca6SwU_UhuXFAdA-o/view?usp=sharing](https://drive.google.com/file/d/13BBlFzRbwUVU41Zca6SwU_UhuXFAdA-o/view?usp=sharing)
 
-- ⚡ Fun fact **Trying my best to be consistant on this platform😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
