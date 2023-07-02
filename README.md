@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **purnachandarnv26@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13BBlFzRbwUVU41Zca6SwU_UhuXFAdA-o/view?usp=sharing](https://drive.google.com/file/d/13BBlFzRbwUVU41Zca6SwU_UhuXFAdA-o/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=sharing 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
