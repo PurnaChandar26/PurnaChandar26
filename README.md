@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Purna Chandar Nistala</h1>d
+<h1 align="center">Hi 👋, I'm Purna Chandar Nistala</h1>
 <h3 align="center">I am a data analyst and web developer with a strong interest in artificial intelligence and machine learning, I bring a unique blend of technical and analytical skills to my work. I have honed my abilities in data analysis, web development, and machine learning algorithms. My passion for technology and creative problem-solving drives me to continuously improve and learn, as I work towards delivering high-quality and impactful solutions in the ever-evolving field of AI and ML.</h3>
 
 - 👨‍💻 All of my projects are available at: [portfolio](https://purnachandar26.github.io/portfolio/)
