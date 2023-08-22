@@ -16,6 +16,9 @@ jobs:
       # Checkout the repository
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          node-version: '16'
+
 
       # Generate the snake animation
       - name: Generate Snake
