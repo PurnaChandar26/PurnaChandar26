@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at: [portfolio](https://purnachandar.framer.website/)
 
-- 📫 How to reach me: **purnachandarnv26@gmail.com**
+- 📫 How to reach me: **purnachandarnv26@gmail.com** 
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=drive_link) 
 
