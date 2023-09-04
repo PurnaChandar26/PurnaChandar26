@@ -2,7 +2,7 @@
 <h3 align="center">I am a data analyst and web developer with a strong interest in artificial intelligence and machine learning, I bring a unique blend of technical and analytical skills to my work. I have honed my abilities in data analysis, web development, and machine learning algorithms. My passion for technology and creative problem-solving drives me to continuously improve and learn, as I work towards delivering high-quality and impactful solutions in the ever-evolving field of AI and ML.</h3>
 
 - 👨‍💻 All of my projects are available at: [portfolio](https://purnachandar.framer.website/)
-
+   
 - 📫 How to reach me: **purnachandarnv26@gmail.com** 
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=drive_link) 
