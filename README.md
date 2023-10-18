@@ -7,7 +7,7 @@
   
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=drive_link) 
 
-![snake gif](https://github.com/PurnaChandar26/PurnaChandar26/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/PurnaChandar26/PurnaChandar26/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
