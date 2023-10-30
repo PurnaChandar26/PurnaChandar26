@@ -10,9 +10,11 @@
 
 <p align="center">
   <a href="https://purnachandar.framer.website/" style="text-decoration:none;" target="_blank"><img src="https://img.shields.io/badge/View%20My%20Projects-Portfolio-brightgreen?style=for-the-badge" alt="Portfolio"></a>
-  <a href="mailto:purnachandarnv26@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=drive_link" style="text-decoration:none;"><img src="https://img.shields.io/badge/Check%20My%20Experiences-Resume-orange?style=for-the-badge" alt="Resume"></a>
+  <a href="mailto:purnachandarnv26@gmail.com" style="text-decoration:none;" target="_blank"><img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1DuMeddKFWg4d5FBmNTsbxj-JexqujgR_/view?usp=drive_link" style="text-decoration:none;" target="_blank"><img src="https://img.shields.io/badge/Check%20My%20Experiences-Resume-orange?style=for-the-badge" alt="Resume"></a>
 </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 
