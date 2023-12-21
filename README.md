@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Purna Chandar Nistala</h1> 
+<h1 align="center">Hi 👋, I'm Purna Chandar Nistala</h1>
 
 ### Data Analyst and Machine Learning Engineer with a strong interest in artificial intelligence and natural language processing, bringing a unique blend of technical and analytical skills to work. Proven ability in data analysis, visualization & storytelling along with machine learning algorithms, with a passion for technology and creative problem-solving. Driven to continuously improve and learn, working towards delivering high-quality and impactful solutions in the ever-evolving field of AI and ML.
 
