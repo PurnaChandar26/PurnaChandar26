@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnachandar26&" alt="purnachandar26" /></p>
 
-### Programming Languages
+### Programming Languages & Libraries
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![R Language](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
