@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/purna-chandar-nistala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purna-chandar-nistala/" height="30" width="40" /></a>
 <a href="https://leetcode.com/purnachandar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/purnachandar26/" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/purna.chandar.op" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tableau-software.png" 
+<a href="https://public.tableau.com/app/profile/purna.chandar/vizzes" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tableau-software.png" 
 alt="Tableau" height="30" width="40" /></a>
 <a href="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/purnachandar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/purnachandar26" height="30" width="40" /></a>
