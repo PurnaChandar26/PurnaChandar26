@@ -20,9 +20,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/purna-chandar-nistala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purna-chandar-nistala/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/purnachandar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/purnachandar26" height="30" width="40" /></a>
-<a href="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" height="30" width="40" /></a>
 <a href="https://leetcode.com/purnachandar26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/purnachandar26/" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/purna.chandar.op" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/tableau-software.png" 
+alt="Tableau" height="30" width="40" /></a>
+<a href="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/purna_chandar_op/?igshid=ymmymta2m2y%3d" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/purnachandar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/purnachandar26" height="30" width="40" /></a>
 <a href="https://discord.gg/purna chandar op#2234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purna chandar op#2234" height="30" width="40" /></a>
 </p>
 
@@ -53,3 +55,5 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnachandar26&" alt="purnachandar26" /></p>
+
+
