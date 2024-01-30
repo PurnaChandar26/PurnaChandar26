@@ -54,5 +54,3 @@ alt="Tableau" height="30" width="40" /></a>
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnachandar26&" alt="purnachandar26" /></p>
-
-
