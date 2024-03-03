@@ -27,7 +27,6 @@ alt="Tableau" height="30" width="40" /></a>
 <a href="https://discord.gg/purna chandar op#2234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purna chandar op#2234" height="30" width="40" /></a>
 </p> 
 
-
 ### Programming Languages, Libraries & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
